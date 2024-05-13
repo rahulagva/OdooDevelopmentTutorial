@@ -1,4 +1,4 @@
-# openacademy
+# openacademy44444444444
 Odoo Development Training
 
 Learning Odoo Development from the Scatch is always difficult especially if there is no reliable tutorial to get started with. In order to help the developers to learn Odoo Development Cybrosys Created a Unique and customized Odoo Development Tutorial which covers each and every aspect of the Development. In order to start learning Odoo, you have to first install Odoo 14 on your system. Refer to the below video tutorial for a Hassle-free installation of Odoo 14 
